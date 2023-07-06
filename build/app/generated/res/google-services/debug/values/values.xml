@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">96050577155-3ml04ov5fg9aetoo2e8dgp6hd7o165lg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">96050577155</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdBcGwJASNBJXKEcsDOetQa5Ba9SJRVNk</string>
+    <string name="google_app_id" translatable="false">1:96050577155:android:bf6c0fbd3f8ecd0b34b336</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdBcGwJASNBJXKEcsDOetQa5Ba9SJRVNk</string>
+    <string name="google_storage_bucket" translatable="false">vyombo-2839d.appspot.com</string>
+    <string name="project_id" translatable="false">vyombo-2839d</string>
+</resources>
